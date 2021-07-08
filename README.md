@@ -1,8 +1,8 @@
 <h1>UserAgent-generator</h1>
-<b><strong>Генератор юзер агентов (UserAgent) и запись их в файл.</strong></b>
+<em><strong>Генератор юзер агентов (UserAgent) и запись их в файл.</strong></em>
 
 <h1>Канал</h1>
-<b>Наш канал в Telegarm'к -> <a href="https://t.me/shit_coding">Shit Coding</a></b>
+<b>Наш канал в Telegarm'е -> <a href="https://t.me/shit_coding">Shit Coding</a></b>
 
 # Установка
 __Для установки скрипта в Termux следуйте инструкциям ниже.__
