@@ -7,10 +7,10 @@
 # Установка
 <em>Для установки скрипта в Termux следуйте инструкциям ниже.</em>
 
-1. <code>pkg update & upgrade</code>
+1. <code>pkg update</code>
 2. <code>pkg install git python</code>
 3. <code>git clone https://github.com/KrasProject2021/UserAgent-generator</code>
-3. <code>pip install fake-useragent</code>
+3. <code>pip install -r requirements.txt</code>
 
 <h3>Переходим в директорию с скриптом.</h3>
 
