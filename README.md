@@ -21,3 +21,5 @@
 5. <code>python ua.py</code>
 
 <h1>Прошу Вас соблюдать лицензию !</h1>
+
+<h2>Поправки внес <a href="https://github.com/goodanotherday">Good Day</a></h2>
