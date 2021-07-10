@@ -2,7 +2,6 @@ import os
 
 from fake_useragent import UserAgent
 
-
 def logo():
     print(r"""
  _   _                _                    _
@@ -24,7 +23,6 @@ def clear():
         os.system("cls")
     else:
         os.system("clear")
-
 
 ua = UserAgent()
 
